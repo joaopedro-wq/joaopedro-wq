@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oiii me chamo <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bandeira-01b83a205/"><i>João Pedro Bandeira</i></a> </h1>
-  <p align="center">Estudo Ciências da Computação e compartilho meu conhecimento aqui!
+  <p align="center">Estudo Ciências da Computação e compartilho meus conhecimentos aqui!
   </a><br>
   
 </div>
