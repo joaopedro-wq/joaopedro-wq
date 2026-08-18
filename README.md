@@ -2,9 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Jo%C3%A3o+Pedro+Bandeira;Desenvolvedor+Full+Stack;Angular+%C2%B7+TypeScript+%C2%B7+Laravel" alt="João Pedro Bandeira — Desenvolvedor Full Stack" />
 
-<p>
-  Construo produtos web conectando <strong>produto</strong>, <strong>experiência</strong> e <strong>engenharia</strong>.
-</p>
+<p>Construo produtos web conectando <strong>produto</strong>, <strong>experiência</strong> e <strong>engenharia</strong>.</p>
 
 <p>
   <a href="https://portfolio-joaopedro-six.vercel.app/">
@@ -14,17 +12,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joao.bandeiraoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Contato-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
+    <img src="https://img.shields.io/badge/E--mail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+
 </div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
 
 ## Olá, eu sou o João 👋
 
@@ -34,72 +31,35 @@ Atuo principalmente com **Angular, TypeScript, PHP e Laravel**, participando do 
 
 Gosto de transformar necessidades complexas em soluções simples de usar, com código organizado e espaço para evoluir.
 
-    </td>
-    <td width="42%" valign="top">
-
-## Em foco
-
-```text
-Produto
-  ↓
-Experiência
-  ↓
-Engenharia
-  ↓
-Qualidade
-```
-
-<sub>Interfaces claras, decisões técnicas conscientes e entregas sustentáveis.</sub>
-
-    </td>
-  </tr>
-</table>
+> **Produto → Experiência → Engenharia → Qualidade**
+>
+> Interfaces claras, decisões técnicas conscientes e entregas sustentáveis.
 
 ## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,php,laravel,tailwind,mysql,postgres,git,github,figma&perline=11" alt="Tecnologias: Angular, TypeScript, JavaScript, PHP, Laravel, Tailwind, MySQL, PostgreSQL, Git, GitHub e Figma" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,php,laravel,tailwind,mysql,postgres,git,github,figma&perline=11" alt="Angular, TypeScript, JavaScript, PHP, Laravel, Tailwind CSS, MySQL, PostgreSQL, Git, GitHub e Figma" />
 
 </div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
 
 ### Frontend
 
-Angular · TypeScript · RxJS · Signals · Tailwind · SCSS · Design Systems
-
-    </td>
-    <td width="33%" align="center" valign="top">
+Angular · TypeScript · JavaScript · RxJS · Signals · Tailwind CSS · SCSS · Design Systems
 
 ### Backend
 
-PHP · Laravel · REST APIs · Sanctum · OAuth · Webhooks · SQL
+PHP · Laravel · APIs REST · Laravel Sanctum · OAuth · Webhooks · MySQL · PostgreSQL
 
-    </td>
-    <td width="33%" align="center" valign="top">
+### Qualidade e ferramentas
 
-### Qualidade
-
-Cypress · PHPUnit · Jasmine · Karma · Git · Performance · Acessibilidade
-
-    </td>
-  </tr>
-</table>
+Cypress · PHPUnit · Jasmine · Karma · Git · GitHub Actions · Figma · Acessibilidade
 
 ## O que valorizo
 
-<div align="center">
-
-| ◈ Produto | ◇ Experiência | ◆ Engenharia |
-|:---:|:---:|:---:|
+| Produto | Experiência | Engenharia |
+| :---: | :---: | :---: |
 | Entender o problema antes da solução | Fluxos claros e interfaces que orientam | Código testável, reutilizável e fácil de manter |
-
-</div>
 
 <details>
 <summary><strong>Mais sobre como trabalho</strong></summary>
