@@ -1,61 +1,128 @@
 <div align="center">
 
-# João Pedro Bandeira
-
-### Desenvolvedor Full Stack
-
-Angular · TypeScript · PHP · Laravel
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Jo%C3%A3o+Pedro+Bandeira;Desenvolvedor+Full+Stack;Angular+%C2%B7+TypeScript+%C2%B7+Laravel" alt="João Pedro Bandeira — Desenvolvedor Full Stack" />
 
 <p>
-  <a href="https://portfolio-joaopedro-six.vercel.app/">Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bandeira-01b83a205/">LinkedIn</a> ·
-  <a href="mailto:joao.bandeiraoliveira@gmail.com">E-mail</a>
+  Construo produtos web conectando <strong>produto</strong>, <strong>experiência</strong> e <strong>engenharia</strong>.
+</p>
+
+<p>
+  <a href="https://portfolio-joaopedro-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bandeira-01b83a205/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joao.bandeiraoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Contato-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
+  </a>
 </p>
 
 </div>
 
-## Sobre mim
+<br />
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+## Olá, eu sou o João 👋
 
 Sou Desenvolvedor Full Stack com mais de 3 anos de experiência na construção de produtos web.
 
-Trabalho principalmente com Angular, TypeScript, PHP e Laravel, atuando entre produto, UX/UI e engenharia. Gosto de entender o problema antes de escrever código e construir soluções claras, consistentes e fáceis de evoluir.
+Atuo principalmente com **Angular, TypeScript, PHP e Laravel**, participando do processo completo: entendimento do problema, organização dos fluxos, construção da interface, desenvolvimento da API, integrações, testes e entrega.
 
-## Tecnologias
+Gosto de transformar necessidades complexas em soluções simples de usar, com código organizado e espaço para evoluir.
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+    </td>
+    <td width="42%" valign="top">
 
-### Também trabalho com
+## Em foco
 
-APIs REST · OAuth · Webhooks · Laravel Sanctum · RxJS · Signals · Cypress · PHPUnit · Git · Figma · Design Systems · Acessibilidade
+```text
+Produto
+  ↓
+Experiência
+  ↓
+Engenharia
+  ↓
+Qualidade
+```
+
+<sub>Interfaces claras, decisões técnicas conscientes e entregas sustentáveis.</sub>
+
+    </td>
+  </tr>
+</table>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,php,laravel,tailwind,mysql,postgres,git,github,figma&perline=11" alt="Tecnologias: Angular, TypeScript, JavaScript, PHP, Laravel, Tailwind, MySQL, PostgreSQL, Git, GitHub e Figma" />
+
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+
+### Frontend
+
+Angular · TypeScript · RxJS · Signals · Tailwind · SCSS · Design Systems
+
+    </td>
+    <td width="33%" align="center" valign="top">
+
+### Backend
+
+PHP · Laravel · REST APIs · Sanctum · OAuth · Webhooks · SQL
+
+    </td>
+    <td width="33%" align="center" valign="top">
+
+### Qualidade
+
+Cypress · PHPUnit · Jasmine · Karma · Git · Performance · Acessibilidade
+
+    </td>
+  </tr>
+</table>
 
 ## O que valorizo
 
-- Interfaces que ajudam o usuário a entender o próximo passo.
-- Código organizado, testável e simples de manter.
-- Componentes reutilizáveis e padrões consistentes.
-- Decisões técnicas conectadas às necessidades do produto.
+<div align="center">
 
-## Contato
+| ◈ Produto | ◇ Experiência | ◆ Engenharia |
+|:---:|:---:|:---:|
+| Entender o problema antes da solução | Fluxos claros e interfaces que orientam | Código testável, reutilizável e fácil de manter |
+
+</div>
+
+<details>
+<summary><strong>Mais sobre como trabalho</strong></summary>
+
+<br />
+
+- Valido contexto, regras de negócio e necessidades do usuário antes de implementar.
+- Transformo padrões recorrentes em componentes, serviços e bibliotecas reutilizáveis.
+- Trato autenticação, integrações, estados de erro e limites de API como parte do produto.
+- Uso testes e revisão técnica para reduzir regressões e tornar a evolução mais segura.
+
+</details>
+
+## Vamos conversar
 
 <div align="center">
 
 <a href="https://portfolio-joaopedro-six.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Conhecer%20meu%20trabalho-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Conhecer meu trabalho" />
 </a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bandeira-01b83a205/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:joao.bandeiraoliveira@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
+
+<br /><br />
+
+<sub>Construindo produtos web com clareza, cuidado técnico e visão de usuário.</sub>
 
 </div>
