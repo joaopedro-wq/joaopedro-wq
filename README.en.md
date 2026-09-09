@@ -1,129 +1,189 @@
 <div align="center">
 
 <a href="./README.md">
-  <img src="https://img.shields.io/badge/PT--BR-18181B?style=for-the-badge" alt="Português" />
+  <img src="https://img.shields.io/badge/PT--BR-18181B?style=for-the-badge&labelColor=18181B" alt="Português" />
 </a>
 <a href="./README.en.md">
-  <img src="https://img.shields.io/badge/EN-7C3AED?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/EN-7C3AED?style=for-the-badge&labelColor=18181B" alt="English" />
 </a>
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Jo%C3%A3o+Pedro+Bandeira;Full+Stack+Developer;Angular+%C2%B7+TypeScript+%C2%B7+Laravel" alt="João Pedro Bandeira — Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=780&lines=Jo%C3%A3o+Pedro+Bandeira;Full+Stack+Developer;Angular+%C2%B7+TypeScript+%C2%B7+Laravel;Social+APIs+%C2%B7+Open+Source+Author" alt="João Pedro Bandeira — Full Stack Developer" />
 
-<p>I build web products by connecting product thinking, user experience and engineering.</p>
+<p>
+  <strong>I turn complex problems into clear, functional and scalable digital products.</strong>
+</p>
+
+<p>
+  Full Stack Development · Product · UX/UI · Social APIs · Integrations
+</p>
 
 <p>
   <a href="https://portfolio-joaopedro-six.vercel.app/">
-    <img src="https://img.shields.io/badge/Personal%20website-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal website" />
+    <img src="https://img.shields.io/badge/Explore%20my%20work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my work" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bandeira-01b83a205/">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joao.bandeiraoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Get%20in%20touch-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
   </a>
 </p>
+
+<br />
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Social%20APIs-7C3AED?style=flat-square&logo=graphql&logoColor=white" alt="Social APIs" />
 
 </div>
 
-## Hi, I'm João 👋
+## About me
 
-I'm a Full Stack Developer with more than 3 years of experience building and evolving web products.
+I'm a Full Stack Developer with more than 3 years of experience building web products that solve real business problems.
 
-I mainly work with Angular, TypeScript, Node.js, PHP and Laravel, contributing throughout the development cycle: understanding the problem, defining user flows, building interfaces, developing APIs, integrations, authentication, testing and delivery.
+My work sits at the intersection of product, user experience and engineering. I like understanding the context before writing code, organizing complex flows and turning business rules into simple experiences for the people who use the product.
 
-I enjoy turning complex business rules into simpler, clearer and easier-to-use experiences.
+I mainly work with Angular, TypeScript, Node.js, PHP and Laravel, contributing throughout the entire development cycle:
 
-My work combines product thinking, attention to user experience and technical decisions designed for long-term maintainability.
+* discovering problems and understanding business rules;
+* defining user flows and experiences;
+* building responsive interfaces;
+* developing APIs and integrations;
+* implementing authentication, OAuth and webhooks;
+* integrating social media APIs;
+* testing, reviewing and continuously improving products.
 
-> Product → Experience → Engineering → Quality
+> I don't believe in software built only to work.
+>
+> I believe in products that make sense for users, businesses and the teams that maintain them.
 
-## What I do
+## What I build
 
-* Build modern and scalable web applications.
-* Create clear, responsive and accessible interfaces.
-* Design REST APIs and integrations with external services.
-* Work with authentication, OAuth, webhooks and social APIs.
-* Turn recurring patterns into reusable components and solutions.
-* Contribute to products from early ideas through delivery.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧩 Digital products</h3>
+      <p>
+        Complete web applications designed to turn business needs into clear and efficient user experiences.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Better experiences</h3>
+      <p>
+        Responsive, accessible and user-oriented interfaces that help people navigate flows and make decisions.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔗 Smart integrations</h3>
+      <p>
+        APIs, authentication, webhooks and integrations with external platforms and social networks.
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Tech stack
+## Where I create the most value
+
+### 🚀 Turning complexity into clarity
+
+I organize business rules, states, permissions and flows to make products easier to understand and use.
+
+### 🛠️ Building for evolution
+
+I create reusable components, services and structures that reduce rework and make new features safer to deliver.
+
+### 🌐 Connecting systems and platforms
+
+I work with REST APIs, OAuth, webhooks and social media integrations to connect different parts of a product.
+
+### ✅ Caring about the complete experience
+
+I consider loading states, errors, responsiveness, accessibility, security and API limits essential parts of the product.
+
+## Core stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,php,laravel,tailwind,mysql,postgres,git,github,figma&perline=12" alt="Angular, TypeScript, JavaScript, Node.js, PHP, Laravel, Tailwind CSS, MySQL, PostgreSQL, Git, GitHub and Figma" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,php,laravel,tailwind,scss,mysql,postgres,git,github,figma&perline=13" alt="Angular, TypeScript, JavaScript, Node.js, PHP, Laravel, Tailwind CSS, SCSS, MySQL, PostgreSQL, Git, GitHub and Figma" />
 
 </div>
 
 ### Frontend
 
-Angular · TypeScript · JavaScript · RxJS · Signals · Tailwind CSS · SCSS · Design Systems · Accessibility
+`Angular` · `TypeScript` · `JavaScript` · `RxJS` · `Signals` · `Tailwind CSS` · `SCSS` · `PrimeNG` · `Design Systems`
 
 ### Backend
 
-PHP · Laravel · Node.js · REST APIs · Laravel Sanctum · OAuth · Webhooks · MySQL · PostgreSQL
+`PHP` · `Laravel` · `Node.js` · `REST APIs` · `Laravel Sanctum` · `OAuth` · `Webhooks`
 
-### Quality and tools
+### Data and integrations
 
-PHPUnit · Cypress · Git · GitHub Actions · Figma · Code Review · Technical documentation
+`MySQL` · `PostgreSQL` · `Social Media APIs` · `File Uploads` · `Scheduled Jobs` · `External Integrations`
 
-## Featured projects
+### Quality and collaboration
 
-### Vitality PLUS
+`PHPUnit` · `Cypress` · `Git` · `GitHub Actions` · `Code Review` · `Figma` · `Technical Documentation`
 
-A nutrition platform combining Artificial Intelligence, food tracking and gamification to help people build more consistent routines.
+## How I think and work
 
-<a href="https://vitality-front.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20project-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Vitality PLUS" />
-</a>
-
-### Bandeira UI
-
-A component library and interface study focused on building consistent and reusable web experiences.
-
-<a href="https://bandeira-ui.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore%20Bandeira%20UI-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Bandeira UI" />
-</a>
-
-## How I work
-
-|                      Product                      |                  Experience                  |                   Engineering                   |
-| :-----------------------------------------------: | :------------------------------------------: | :---------------------------------------------: |
-| Understand the problem before choosing a solution |      Build clear and guiding user flows      | Write organized, reusable and maintainable code |
-|      Consider business rules and user impact      | Think about accessibility and responsiveness |  Take care of integrations, errors and security |
-|       Prefer simple and evolvable solutions       |         Reduce unnecessary decisions         |   Value testing, code review and documentation  |
+|                      Product                      |                  Experience                  |                Engineering               |
+| :-----------------------------------------------: | :------------------------------------------: | :--------------------------------------: |
+| Understand the problem before choosing a solution |       Create clear and intuitive flows       |   Write organized and maintainable code  |
+|         Consider business rules and impact        |   Reduce friction and unnecessary decisions  | Prioritize reuse and long-term evolution |
+|       Look for simple and scalable solutions      | Think about accessibility and responsiveness |    Value testing and technical review    |
 
 <details>
-<summary><strong>More about my approach</strong></summary>
+<summary><strong>My approach</strong></summary>
 
 <br />
 
-* Validate context and business rules before implementation.
-* Understand not only what needs to be built, but also why.
-* Turn recurring behavior into reusable components, services and libraries.
-* Treat authentication, integrations, errors and API limits as part of the experience.
-* Balance delivery speed, technical quality and maintainability.
-* Build solutions that work well today and can continue evolving tomorrow.
+1. **Understand the context**
+   Before implementing, I look at the problem, the business rules and the expected impact.
+
+2. **Shape the experience**
+   I turn complex requirements and processes into clearer, more predictable and easier-to-use flows.
+
+3. **Choose the right solution**
+   I balance delivery speed, quality, simplicity and long-term evolution.
+
+4. **Build with consistency**
+   I reuse patterns, components and services to keep products organized.
+
+5. **Care about the details**
+   Loading states, error messages, permissions, responsiveness and accessibility are part of the delivery.
+
+6. **Think about what comes next**
+   A good solution should not only solve today's problem; it should prepare the product to keep growing.
 
 </details>
+
+## What sets my work apart
+
+* Product thinking combined with strong technical execution.
+* Experience building complete web applications, from frontend to backend.
+* Knowledge of social APIs, authentication and external integrations.
+* Attention to user experience and interface details.
+* Focus on reusable, testable and maintainable code.
+* Continuous interest in design systems, open source and improvement.
 
 ## Let's connect
 
 <div align="center">
 
 <a href="https://portfolio-joaopedro-six.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore%20my%20work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my work" />
+  <img src="https://img.shields.io/badge/View%20my%20portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my portfolio" />
 </a>
 
 <br /><br />
 
-<sub>Building web products with clarity, technical care and a user-focused mindset.</sub>
+<strong>Have an interesting problem to solve?</strong>
+
+<br />
+
+<sub>Let's turn ideas into clear, useful and well-built digital products.</sub>
 
 </div>
